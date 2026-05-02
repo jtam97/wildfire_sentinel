@@ -1,4 +1,4 @@
-# 🔥 Wildfire Sentinel
+# Wildfire Sentinel - Prototype project for a cheap IoT wildfire monitor
 
 ---
 
